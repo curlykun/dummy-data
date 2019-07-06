@@ -2,8 +2,8 @@
     "menu": {
         "item": [
             {
-                "icon": "+",
-                "text": "test"
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Booking-96.png",
+                "text": "E-Reservation"
             },
             {
                 "icon": "-",
