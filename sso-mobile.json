@@ -1,0 +1,14 @@
+{
+    "menu": {
+        "item": [
+            {
+                "icon": "+",
+                "text": "test"
+            },
+            {
+                "icon": "-",
+                "text": "tost"
+            }
+        ]
+    }
+}
