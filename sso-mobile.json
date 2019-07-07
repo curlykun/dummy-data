@@ -8,10 +8,22 @@
             {
                 "icon": "https://sso.krakatausteel.com/edit/images/icon/Check-96.png",
                 "text": "BTTD Online II"
-            }
+            },
             {
                 "icon": "https://sso.krakatausteel.com/edit/images/icon/Meeting-96.png",
                 "text": "e-Negotiation"
+            },
+            {
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Move by Trolley-96.png",
+                "text": "PO Distribution"
+            },
+            {
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Gears-96.png",
+                "text": "MPC Online"
+            },
+            {
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Ask Question-96.png",
+                "text": "Jasa Asistensi Konsultasi"
             }
         ]
     }
