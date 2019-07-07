@@ -6,8 +6,12 @@
                 "text": "E-Reservation"
             },
             {
-                "icon": "-",
-                "text": "tost"
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Check-96.png",
+                "text": "BTTD Online II"
+            }
+            {
+                "icon": "https://sso.krakatausteel.com/edit/images/icon/Meeting-96.png",
+                "text": "e-Negotiation"
             }
         ]
     }
